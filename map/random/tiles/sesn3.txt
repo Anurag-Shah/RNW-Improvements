@@ -2,7 +2,7 @@
 num_sea_provinces = 31
 num_land_provinces = 491
 size = { 10 10 }
-weight = 300
+weight = 150
 
 continent = yes
 

@@ -279,6 +279,6 @@ continent = yes
 num_sea_provinces = 79
 num_land_provinces = 652
 size = { 13 16 }
-weight = 150
+weight = 250
 #restrict_to_north_edge = yes
 do_not_rotate = yes

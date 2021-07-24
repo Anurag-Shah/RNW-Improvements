@@ -19,5 +19,5 @@ num_land_provinces = 74
 size = { 2 2 }
 
 
-weight = 10000
+weight = 1
 

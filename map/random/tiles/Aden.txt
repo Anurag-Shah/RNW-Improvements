@@ -109,7 +109,7 @@ num_sea_provinces = 60
 num_land_provinces = 894
 size = { 10 10 }
 
-weight = 100
+weight = 250
 
 empty = { 0 0 0 }
 

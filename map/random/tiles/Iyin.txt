@@ -25,7 +25,7 @@ num_land_provinces = 102
 
 size = { 5 5 }
 
-weight = 100
+weight = 1
 
 continent = yes
 

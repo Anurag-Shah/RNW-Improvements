@@ -142,7 +142,7 @@ size = { 14 8 }
 
 continent = yes
 
-weight = 100
+weight = 300
 
 empty = { 0 0 0 }
 

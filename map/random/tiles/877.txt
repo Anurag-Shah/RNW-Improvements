@@ -78,7 +78,7 @@ size = { 12 6 }
 
 continent = yes
 
-weight = 100
+weight = 200
 
 regions = 4
 region = { 235 41 23 }

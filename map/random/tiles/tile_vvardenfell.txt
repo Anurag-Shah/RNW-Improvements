@@ -1,0 +1,338 @@
+sea_province = { 0 255 255 }
+sea_province = { 0 242 242 }
+sea_province = { 0 230 230 }
+sea_province = { 0 217 217 }
+sea_province = { 0 204 204 }
+sea_province = { 0 191 191 }
+sea_province = { 0 179 179 }
+sea_province = { 0 166 166 }
+sea_province = { 0 153 153 }
+sea_province = { 0 140 140 }
+sea_province = { 0 128 128 }
+
+lake_province = { 42 0 255 }
+lake_province = { 27 0 166 }
+lake_province = { 36 0 217 }
+lake_province = { 32 0 191 }
+lake_province = { 30 0 179 }
+
+wasteland_province = { 255 255 255 }
+
+province_names = {
+	"ZafiFrbel Bay" = { 0 255 255 }
+	"Azura's Coast" = { 0 242 242 }
+	"The Inner Sea" = { 0 230 230 }
+	"Ascadian Isles" = { 0 217 217 }
+	"Bitter Coast" = { 0 204 204 }
+	"Telvanni Coast" = { 0 191 191 }
+	"Sea of Ghosts" = { 0 179 179 }
+	"West Gash" = { 0 166 166 }
+	"Sheogorad Straits" = { 0 153 153 }
+	"Solstheim Approach" = { 0 140 140 }
+	"Cape Dagon" = { 0 128 128 }
+	"Lake Amaya" = { 42 0 255 }
+	"Lake Hairan" = { 36 0 217 }
+	"Lake Nabia" = { 27 0 166 }
+	"Lake Masobi" = { 32 0 191 }
+	"Lake Samsi" = { 30 0 179 }
+	"Seyda Neen" = { 255 0 238 }
+	"Pelagiad" = { 242 0 226}
+	"Ebonheart" = { 230 0 214 }
+	"Hla Oad" = { 217 0 202 }
+	"Balmora" = { 204 0 190 }
+	"Caldera" = { 191 0 179 }
+	"Ald'ruhn" = { 179 0 167 }
+	"Andasreth" = { 166 0 155 }
+	"Gnisis" = { 153 0 143 }
+	"Khuul" = { 140 0 131 }
+	"Ald Redaynia" = { 128 0 119 }
+	"Dagon Fell" = { 115 0 107 }
+	"Rotheran" = { 102 0 95 }
+	"Gnaar Mok" = { 255 13 239 }
+	"Hlormaren" = { 242 12 227 }
+	"Suran" = { 230 11 215 }
+	"Ald Sotha" = { 217 11 203 }
+	"Marandus" = { 204 10 191 }
+	"Molag Mar" = { 191 10 179 }
+	"Tel Branora" =	{ 179 9 167 }
+	"Vivec" = { 166 8 155 }
+	"Kummu" = { 153 8 143 }
+	"Bal Fel" = { 140 7 131 }
+	"Aharnabi" = { 128 6 119 }
+	"Sadrith Mora" = { 115 6 107 }
+	"Tel Mora" = { 102 5 96 }
+	"Ald Velothi" = { 255 25 240 }
+	"Maar Gan" = { 242 24 228 }
+	"Valenvaryon" = { 230 23 216 }
+	"Odai" = { 217 22 204 }
+	"Dren" = { 204 20 192 }
+	"Moonmoth" = { 191 19 180 }
+	"Mzuleft" = { 179 18 168 }
+	"Indoranyon" = { 166 17 156 }
+	"Tel Fyr" = { 153 15 144 }
+	"Bal Ur" = { 140 14 132 }
+	"Mzahnch" = { 128 13 120 }
+	"Ules" = { 115 11 108 }
+	"Ulummusa" = { 102 10 96 }
+	"Arano" = { 255 38 240 }
+	"Ansi" = { 242 36 228 }
+	"Buckmoth" = { 230 34 216 }
+	"Bal Isra" = { 217 33 204 }
+	"Berandas" = { 204 31 192 }
+	"Urshilaku" = { 191 29 180 }
+	"Ahemmusa" = { 179 27 168 }
+	"Falensarano" = { 166 25 156 }
+	"Telasero" = { 153 23 144 }
+	"Erabenimsun" = { 140 21 132 }
+	"Ghostgate" = { 128 19 120 }
+	"Wolverine Hall" = { 115 17 108 }
+	"Tel Aruhn" = { 102 15 96 }
+	"Vos" = { 255 51 241 }
+	"Falasmaryon" = { 242 48 229 }
+	"Koal" = { 230 46 217 }
+	"Zainab" = { 217 43 205 }
+	"Sulipund" = { 204 41 93 }
+	"Zanabi" = { 191 38 181 }
+	"Zaintiraris" = { 179 36 169 }
+	"Holamayan" = { 166 33 157 }
+	"Ald Daedroth" = { 153 31 145 }
+	"Ashalmawia" = { 140 28 133 }
+	"Nchurdamz" = { 128 25 121 }
+	"Ebernanit"= { 115 23 109 }
+	"Assurdirapal" = { 102 20 97 }
+	"Zergonipal" = { 255 64 242 }
+	"Nchardahrk" = { 242 61 230 }
+	"Maelkashishi" = { 230 57 218 }
+	"Yasammidan"= { 217 54 206 }
+	"Ashalmimikala" = { 204 51 194 }
+	"Abaesen-Pulu" = { 191 48 182 }
+	"Masseranit" = { 179 45 170 }
+	"Almurbalarammi" { 166 41 157 }
+	"Salmantu" = { 153 38 145}
+	"Ahinipalit" = { 140 35 133 }
+	"Punabi" = { 128 32 121 }
+	"Hanud" = { 115 29 109 }
+	"Odibaal" = { 102 26 97 }
+	"Dushariran" = { 255 77 243 }
+	"Aleft" = {242 73 231}
+	"Arkngthand" = { 230 69 219 }
+	"Zebabi" = { 217 65 207 }
+	"Yakanalit" = { 204 61 194 }
+	"Hinnabi" = { 191 57 182 }
+	"Marvani" = { 179 54 170 }
+	"Ashirbadon" = { 166 50 158 }
+	"Releth" = { 153 46 146 }
+	"Kumarahaz" = { 128 32 122 }
+	"Abebaal" = { 115 34 109 }
+	"Mawia" = { 102 31 97 }
+	"Helan" = { 255 89 244 }
+	"Piran" = { 242 85 232 }
+	"Assarnatamat" = { 230 80 219 }
+	"Dun-Ahhe" = { 217 76 207 }
+	"Mzanchend" = { 204 71 195 }
+	"Nchardumz" = { 191 67 183 }
+	"Othrelas" = { 179 62 171 }
+	"Akimaes" = { 166 58 159 }
+	"Arkngthunch-Sturdumz" = { 153 54 146 }
+	"Bthungthumz" = { 140 49 134 }
+	"Kogoruhn" = { 128 45 122 }
+	"Mudan-Mul" = { 115 40 110 }
+	"Esutanamus" = { 102 36 98 }
+	"Nchuleft" = { 255 102 245}
+	"Kora-Dur" = { 242 97 233 }
+	"Tusenend" = { 230 92 220 }
+	"Dunirai" = { 217 87 208 }
+	"Vemynal" = { 204 82 196 }
+	"Elith-Pal" = { 191 77 184 }
+	"Habinbaes" = { 179 71 171 }
+	"Ashmelech" = { 166 66 159 }
+	"Sanctus" = { 153 61 147 }
+	"Vas" = { 140 56 135 }
+	"Onnissiralis" = { 128 51 122 }
+	"Assalkushalit" = { 115 46 110 }
+	"Ilanipu" = { 102 41 98 }
+	"Odrosal" = { 255 115 246 }
+	"Orethi" = { 242 109 233 }
+	"Nelas" = { 230 103 221 }
+	"Rayna Drolan" = { 217 98 209 }
+	"Maul" = { 204 92 196 }
+	"Malmus" = { 191 86 184 }
+	"Drethan" = { 166 75 160 }
+	"Sanni" = { 153 69 147 }
+	"Kushtashpi" = { 140 63 135 }
+	"Favel" = { 115 52 111 }
+	"Madas-Zebba" = { 102 46 98 }
+	"Vassamsi" = { 255 128 246 }
+	"Baram" = { 242 121 234 }
+	"Yansirramus" = { 230 115 222 }
+	"Nallit" = { 217 108 209 }
+	"Kaushtarari" = { 191 96 185 }
+	"Verelnim" = { 179 89 173}
+	"Anudnabia" = { 166 83 160 }
+	"Tel Naga" = { 153 77 148 }
+	"Galom Daeus" = { 204 41 193 }
+	"Addamasartus" = { 140 71 136 }
+	"Mallapi" = { 128 65 124 }
+	"Senim" = { 115 58 111 }
+	"Hlervi" = { 40 102 52 }
+	"Omaren" = { 255 140 248 }
+	"Seloth" = { 242 133 236 }
+	"Arenim" =  { 230 126 224}
+	"Andalor" = { 217 119 211 }
+	"Thiralas" = { 204 112 199 }
+	"Yakin" = { 191 105 186 }
+	"Dubdilla" = { 179 98 174 }
+	"Pinsun" = { 166 91 161 }
+	"Sinarralit" = { 153 84 149 }
+	"Sud" = { 140 77 137 }
+	"Eluba-Addon" = { 128 70 124 }
+	"Subdun" = { 115 63 112 }
+	"Falas" = { 102 56 99 }
+	"Ashinabi" = { 255 153 249 }
+	"Khartag" = { 242 145 237 }
+	"Ashimanu" = { 230 138 224 }
+	"Addadshashanammu" = { 217 130 212 }
+	"Kudanat" = { 204 122 199 }
+	"Sarys" = { 191 115 187 }
+	"Ninawia" = { 179 107 174 }
+	"Assemanu" = { 166 99 162}
+	"Olms" = { 153 92 149 }
+	"Mudan" = { 140 84 137 }
+	"Ahallaraddon" = { 128 77 125 }
+	"Odirniran" = { 115 69 112 }
+	"Hlervu" = { 102 61 100 }
+	"Zalkin" = { 255 166 250 }
+	"Ashurnibibi" = { 242 158 242 }
+	"Seran" = { 230 149 230 }
+	"Dagoth Ur" = { 255 255 255 }
+}
+
+level_1_center_of_trade = { 166 8 155 }
+level_1_center_of_trade = { 115 6 107 }
+level_1_center_of_trade = { 115 0 107 }
+river_estuary_modifier = { 153 0 143 }
+river_estuary_modifier = { 255 51 241 }
+river_estuary_modifier = { 217 0 202 }
+level_1_center_of_trade = { 204 0 190 }
+
+strait = {
+	from = { 217 54 206 }
+	to = { 128 70 124 }
+	through = { 0 166 166 }
+}
+strait = {
+	from = { 230 0 214 }
+	to = { 140 84 137 }
+	through = { 0 230 230 }
+}
+strait = {
+	from = { 242 73 231 }
+	to = { 204 122 199 }
+	through = { 0 204 204 }
+}
+strait = {
+	from = { 191 38 181 }
+	to = { 204 51 194 }
+	through = { 0 204 204 }
+}
+strait = {
+	from = { 191 38 181 }
+	to = { 242 158 242 }
+	through = { 0 204 204 }
+}
+strait = {
+	from = { 217 0 202 }
+	to = { 242 158 242 }
+	through = { 0 204 204 }
+}
+strait = {
+	from = { 217 130 212 }
+	to = { 204 51 194 }
+	through = { 0 204 204 }
+}
+strait = {
+	from = { 217 130 212 }
+	to = { 242 73 231 }
+	through = { 0 204 204 }
+}
+strait = {
+	from = { 166 8 155 }
+	to = { 217 11 203 }
+	through = { 0 217 217 }
+}
+strait = {
+	from = { 179 62 171 }
+	to = { 191 48 182 }
+	through = { 0 217 217 }
+}
+strait = {
+	from = { 179 62 171 }
+	to = { 255 38 240 }
+	through = { 0 217 217 }
+}
+strait = {
+	from = { 166 41 157 }
+	to = { 102 31 97 }
+	through = { 0 217 217 }
+}
+strait = {
+	from = { 204 20 192 }
+	to = { 191 48 182 }
+	through = { 36 0 217 }
+}
+strait = {
+	from = { 242 36 228 }
+	to = { 217 11 203 }
+	through = { 0 217 217 }
+}
+strait = {
+	from = { 179 36 169 }
+	to = { 115 34 109 }
+	through = { 0 217 217 }
+}
+strait = {
+	from = { 115 34 109 }
+	to = { 179 9 167 }
+	through = { 0 217 217 }
+}
+strait = {
+	from = { 102 20 97 }
+	to = { 153 61 147 }
+	through = { 0 153 153 }
+}
+strait = {
+	from = { 242 109 233 }
+	to = { 153 61 147 }
+	through = { 0 153 153 }
+}
+strait = {
+	from = { 179 71 171 }
+	to = { 204 92 196 }
+	through = { 0 128 128 }
+}
+strait = {
+	from = { 140 71 136 }
+	to = { 255 0 238 }
+	through = { 0 230 230 }
+}
+strait = {
+	from = { 128 65 124 }
+	to = { 255 13 239 }
+	through = { 0 204 204 }
+}
+
+Regions = 2
+region = { 115 0 107 }
+region = { 166 8 155 }
+
+empty = { 0 0 0 }
+
+size = { 5 5 }
+weight = 100
+fantasy = yes
+do_not_rotate_or_mirror = yes
+
+continent = yes
+
+num_sea_provinces = 11
+num_land_provinces = 168

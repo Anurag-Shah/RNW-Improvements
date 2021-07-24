@@ -69,7 +69,7 @@ continent = yes
 
 
 
-weight = 100
+weight = 300
 
 regions = 9
 region = { 204 0 54 }

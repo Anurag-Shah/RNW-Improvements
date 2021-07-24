@@ -23,13 +23,13 @@ level_1_center_of_trade = { 31 97 153 }
 level_1_center_of_trade = { 31 56 134 }
 level_1_center_of_trade = { 85 104 31 }
 
-num_sea_provinces = 14
+num_sea_provinces = 3
 num_land_provinces = 147
 size = { 2 2 }
 
 continent = no
 
-weight = 100
+weight = 10
 
 empty = { 181 232 241}
 
