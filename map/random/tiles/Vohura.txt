@@ -1,0 +1,58 @@
+sea_province = { 0 204 204 }
+sea_province = { 0 255 255 }
+sea_province = { 0 230 210 }
+sea_province = { 0 230 230 }
+sea_province = { 0 153 153 }
+sea_province = { 0 102 102 }
+sea_province = { 0 128 117 }
+sea_province = { 0 179 179 }
+sea_province = { 0 128 128 }
+sea_province = { 0 153 140 }
+sea_province = { 0 102 94 }
+sea_province = { 0 204 187 }
+sea_province = { 0 204 170 }
+sea_province = { 0 255 234 }
+sea_province = { 0 179 164 }
+sea_province = { 0 230 191 }
+sea_province = { 0 255 191 }
+
+river_estuary_modifier = { 128 39 83 }
+river_estuary_modifier = { 153 77 83 }
+river_estuary_modifier = { 61 107 153 }
+
+level_1_center_of_trade = { 153 123 62 }
+level_1_center_of_trade = { 96 179 54 }
+level_1_center_of_trade = { 102 41 87 }
+level_1_center_of_trade = { 78 166 255 }
+
+level_1_center_of_trade = { 0 242 20 }
+level_1_center_of_trade = { 78 137 255 }
+level_1_center_of_trade = { 54 41 204 }
+
+num_sea_provinces = 17
+num_land_provinces = 809
+
+
+size = { 10 10 }
+
+continent = yes
+
+weight = 100
+
+empty = { 0 0 0 }
+
+regions = 14
+region = { 47 153 47 }
+region = { 153 77 83 }
+region = { 255 92 78 }
+region = { 51 187 255 }
+region = { 128 13 51 }
+region = { 0 140 70 }
+region = { 255 255 0 }
+region = { 31 61 102 }
+region = { 54 0 217 }
+region = { 72 102 41 }
+region = { 39 54 128 }
+region = { 102 41 97 }
+region = { 86 62 204 }
+region = { 102 41 82 }

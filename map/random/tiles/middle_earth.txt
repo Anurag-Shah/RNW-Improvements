@@ -1,0 +1,811 @@
+#S100, V100-40
+sea_province = { 0 255 255 }
+sea_province = { 0 242 242 }
+sea_province = { 0 230 230 }
+sea_province = { 0 217 217 }
+sea_province = { 0 204 204 }
+sea_province = { 0 191 191 }
+sea_province = { 0 179 179 }
+sea_province = { 0 166 166 }
+sea_province = { 0 153 153 }
+sea_province = { 0 140 140 }
+sea_province = { 0 128 128 }
+sea_province = { 0 115 115 }
+sea_province = { 0 102 102 }
+#S95, V100-40
+sea_province = { 13 255 255 }
+sea_province = { 12 242 242 }
+sea_province = { 11 230 230 }
+sea_province = { 11 217 217 }
+sea_province = { 10 204 204 }
+sea_province = { 10 191 191 }
+sea_province = { 9 179 179 }
+sea_province = { 8 166 166 }
+sea_province = { 8 153 153 } 
+sea_province = { 7 140 140 }
+sea_province = { 6 128 128 }
+sea_province = { 6 115 115 }
+sea_province = { 5 102 102 }
+#S90, V100-40
+sea_province = { 25 255 255 }
+sea_province = { 24 242 242 }
+sea_province = { 23 230 230 }
+sea_province = { 22 217 217 }
+sea_province = { 20 204 204 }
+sea_province = { 19 191 191 }
+sea_province = { 18 179 179 }
+sea_province = { 16 166 166 }
+sea_province = { 15 153 153 }
+sea_province = { 14 140 140 }
+sea_province = { 13 128 128 }
+sea_province = { 12 115 115 }
+sea_province = { 10 102 102 }
+#S85 V100-40
+sea_province = { 38 255 255 }
+sea_province = { 36 242 242 }
+sea_province = { 34 230 230 }
+sea_province = { 33 217 217 }
+sea_province = { 31 204 204 }
+sea_province = { 29 191 191 }
+sea_province = { 27 179 179 }
+sea_province = { 25 166 166 }
+sea_province = { 23 153 153 }
+sea_province = { 21 140 140 }
+sea_province = { 19 128 128 }
+sea_province = { 17 115 115 }
+sea_province = { 15 102 102 }
+#S80 V100-40
+sea_province = { 51 255 255 }
+sea_province = { 48 242 242 }
+sea_province = { 46 230 230 }
+sea_province = { 43 217 217 }
+sea_province = { 41 204 204 }
+sea_province = { 38 191 191 }
+sea_province = { 36 179 179 }
+sea_province = { 33 166 166 }
+sea_province = { 31 153 153 }
+sea_province = { 28 140 140 }
+sea_province = { 25 128 128 }
+sea_province = { 23 115 115 }
+sea_province = { 20 102 102 }
+#S75 V100-40
+sea_province = { 64 255 255 }
+sea_province = { 61 242 242 }
+sea_province = { 57 230 230 }
+sea_province = { 54 217 217 }
+sea_province = { 51 204 204 }
+sea_province = { 48 191 191 }
+sea_province = { 44 179 179 }
+sea_province = { 41 166 166 }
+sea_province = { 38 153 153 }
+sea_province = { 35 140 140 }
+sea_province = { 32 128 128 }
+sea_province = { 29 115 115 }
+sea_province = { 25 102 102 }
+#S70 V100-40
+sea_province = { 77 255 255 }
+sea_province = { 73 242 242 }
+sea_province = { 69 230 230 }
+sea_province = { 65 217 217 }
+sea_province = { 61 204 204 }
+sea_province = { 57 191 191 }
+sea_province = { 53 179 179 }
+sea_province = { 49 166 166 }
+sea_province = { 46 153 153 }
+sea_province = { 42 140 140 }
+sea_province = { 38 128 128 }
+sea_province = { 34 115 115 }
+sea_province = { 31 102 102 }
+#S65 V100-40
+sea_province = { 89 255 255 }
+sea_province = { 85 242 242 }
+sea_province = { 80 230 230 }
+sea_province = { 76 217 217 }
+sea_province = { 71 204 204 }
+sea_province = { 67 191 191 }
+sea_province = { 62 179 179 }
+sea_province = { 58 166 166 }
+sea_province = { 53 153 153 }
+sea_province = { 49 140 140 }
+sea_province = { 45 128 128 }
+sea_province = { 40 115 115 }
+sea_province = { 36 102 102 }
+
+#H200, S100, V100-30 steps of 5
+sea_province = { 0 170 255 }
+sea_province = { 0 161 242 }
+sea_province = { 0 153 230 }
+sea_province = { 0 144 217 }
+sea_province = { 0 136 204 }
+sea_province = { 0 127 191 }
+sea_province = { 0 119 179 }
+sea_province = { 0 110 166 }
+sea_province = { 0 102 153 }
+sea_province = { 0 94 140 }
+sea_province = { 0 85 128 }
+sea_province = { 0 76 115 }
+sea_province = { 0 68 102 }
+sea_province = { 0 59 89 }
+sea_province = { 0 51 77 }
+
+#H200, S95. V100-30
+sea_province = { 13 174 255 }
+sea_province = { 12 166 242 }
+sea_province = { 11 157 230 }
+sea_province = { 11 148 217 }
+sea_province = { 10 139 204 }
+sea_province = { 10 131 191 }
+sea_province = { 9 122 179 }
+sea_province = { 8 113 166 }
+sea_province = { 8 105 153 }
+sea_province = { 7 96 140 }
+sea_province = { 6 87 128 }
+sea_province = { 6 78 115 }
+sea_province = { 5 70 102 }
+sea_province = { 4 61 89 }
+sea_province = { 4 52 77 }
+#H200, S90, V100-30
+sea_province = { 26 179 255 }
+sea_province = { 25 170 242 }
+sea_province = { 24 161 230 }
+sea_province = { 23 152 217 }
+sea_province = { 21 143 204 }
+sea_province = { 20 134 191 }
+sea_province = { 18 125 179 }
+sea_province = { 17 116 166 }
+sea_province = { 16 107 153 }
+sea_province = { 15 98 140 }
+sea_province = { 13 90 128 }
+sea_province = { 12 80 115 }
+sea_province = { 10 72 102 }
+sea_province = { 9 63 89 }
+sea_province = { 8 54 77 }
+#H200, S85
+sea_province = { 38 183 255 }
+
+#H210, S100-90, Vs 100-40
+lake_province = { 0 128 255 }
+lake_province = { 0 121 242 }
+lake_province = { 0 115 230 }
+lake_province = { 0 108 217 }
+lake_province = { 0 102 204 }
+lake_province = { 0 96 191 }
+lake_province = { 0 89 179 }
+lake_province = { 0 83 166 }
+lake_province = { 0 77 153 }
+lake_province = { 0 70 140 }
+lake_province = { 0 64 128 }
+lake_province = { 0 57 115 }
+lake_province = { 0 51 102 }
+lake_province = { 13 134 255 }
+lake_province = { 12 127 242 }
+lake_province = { 11 120 230 }
+lake_province = { 11 114 217 }
+lake_province = { 10 107 204 }
+lake_province = { 10 100 191 }
+lake_province = { 9 94 179 }
+lake_province = { 8 87 166 }
+lake_province = { 8 80 153 }
+lake_province = { 7 74 140 }
+lake_province = { 6 67 128 }
+lake_province = { 6 60 115 }
+lake_province = { 5 54 102 }
+lake_province = { 25 141 255 }
+lake_province = { 24 134 242 }
+lake_province = { 23 127 230 }
+lake_province = { 22 120 217 }
+lake_province = { 20 113 204 }
+lake_province = { 19 106 191 }
+lake_province = { 18 99 179 }
+lake_province = { 17 92 166 }
+lake_province = { 15 85 153 }
+lake_province = { 14 78 140 }
+lake_province = { 13 71 128 }
+lake_province = { 11 64 115 }
+lake_province = { 10 57 102 }
+#S85
+lake_province = { 38 147 255 }
+lake_province = { 36 139 242 }
+
+wasteland_province = { 242 242 242 } #Mordor (Mountains of Shadow)
+wasteland_province = { 191 191 191 } #Mordor (Ash Mountains)
+wasteland_province = { 230 230 230 } #Gondor
+wasteland_province = { 217 217 217 } #Misty Mountains
+wasteland_province = { 204 204 204 } #Blue Mountains
+wasteland_province = { 179 179 179 } #Haradwaith
+wasteland_province = { 166 166 166 } #Southern Mountains
+wasteland_province = { 153 153 153 } #Central Mountains
+wasteland_province = { 143 143 143 } #Northern Waste
+wasteland_province = { 128 128 128 } #Central Northern Wasteland
+wasteland_province = { 115 115 115 } #Misc Northern Wasteland
+wasteland_province = { 102 102 102 } #Eastern Northern Wasteland
+wasteland_province = { 89 89 89 } #Central Desert
+wasteland_province = { 77 77 77 } #South East Mountains
+wasteland_province = { 64 64 64 } #Misc South East Mountain
+wasteland_province = { 51 51 51 } #Eastern Mountains
+wasteland_province = { 38 38 38 } #On small northern island
+wasteland_province = { 26 26 26 }
+wasteland_province = { 13 13 13 } #Grey Mountains
+
+regions = 16
+region = { 230 206 80 } #Eriador
+region = { 191 175 0 } #Rohan
+region = { 143 230 23 } #Mordor
+region = { 140 129 7 } #Rhovannion
+region = { 255 240 166 } #Gondor
+region = { 242 228 61 } #rhun
+region = { 140 133 42 } #Harad
+region = { 159 191 96 } #Forodwaith
+region = { 166 156 41 } #Khand
+region = { 217 217 76 } #South Islands
+region = { 142 153 38 } #South East
+region = { 127 153 54 } #East
+region = { 138 230 11 } #North North-East
+#region = { 139 153 69 } #South North-East
+region = { 152 166 0 } #South Center
+region = { 140 140 28 } #East South-East
+region = { 166 166 0 } #West South-East
+
+province_names = {
+#"[province name]" = { R G B }
+	"Mountains of Shadow" = { 242 242 242 } #Mordor (Mountains of Shadow)
+	"Ash Mountains" = { 191 191 191 } #Mordor (Ash Mountains)
+	"White Mountains" = { 230 230 230 } #Gondor
+	"Misty Mountains" = { 217 217 217 } #Misty Mountains
+	"Blue Mountains" = { 204 204 204 } #Blue Mountains
+	"Haradwaith" = { 179 179 179 } #Haradwaith
+	"Sea of Rhun" = { 0 70 140 } #Sea of rhun
+	"Sea of Nurnen" = { 0 77 153 }
+	"Forodwaith" = { 143 143 143 } 
+	"Moria" = { 242 218 97 }
+	"High Pass" = { 255 230 102 }
+	"Rivendell" = { 140 126 49 }
+	"The Shire" = { 255 215 13 }
+	"Bree" = { 217 185 24 }
+	"South Downs" = { 242 217 85 }
+	"Midgewater" = { 242 207 26 }
+	"Evendim" = { 166 138 0 }
+	"Grey Havens" = { 230 192 0 }
+	"Sarn Ford" = { 140 123 33 }
+	"Far Downs" = { 191 165 32 }
+	"Fornost" = { 153 128 0 }
+	"Emin Uial" = { 179 149 0 }
+	"Icebay of Forochel" = { 0 161 242 }
+	"Forochel" = { 101 242 0 }
+	"Lindon" = { 93 102 5 }
+	"Harforlindon" = { 242 202 0 }
+	"Forodforlindon" = { 125 153 69 }
+	"Rhuforlindon" = { 89 153 0 }
+	"Harlinden" = { 146 179 80 }
+	"Forodharlinden" = { 200 217 21 }
+	"Haradharlinen" = { 153 134 35 }
+	"Eryn Vorn" = { 115 102 36 }
+	"Gulf of Lhun" = { 46 153 153 }
+	"Dunmithlond" = { 227 255 89 }
+	"Carn Dhum" = { 128 106 0 }
+	"Rhudaur" = { 60 153 54 }
+	"Trollshaws" ={ 128 114 45 }
+	"Last Bridge" = { 204 183 71 }
+	"Weather Hills" = { 230 196 25 }
+	"Nin-in-Eliph" = { 187 217 130 }
+	"Tharbad" = { 217 194 76 }
+	"Lond Daer" = { 102 91 32 }
+	"Minhiriath" = { 204 187 102 }
+	"Dunminhiriath" = { 136 166 75 }
+	"Eregion" = { 102 94 37 }
+	"Dunland" = { 179 164 89 }
+	"Enedwaith" = { 166 153 90 }
+	"Forenedwaith" = { 217 199 108 }
+	"Dunenedwatih" = { 191 175 96 }
+	"Harenedwaith" = { 153 141 83 }
+	"Isengard" = { 115 106 63 }
+	"Fangorn" = { 140 129 0 }
+	"Harfangorn" = { 117 128 0 }
+	"Rhufangorn" = { 195 230 23 }
+	"The Wold" = { 128 117 0 }
+	"The Undeeps" = { 115 105 0 }
+	"Field of Celebrant" = { 102 94 0 }
+	"Harlorien" = { 255 235 13 }
+	"Lorien" = { 230 211 11 }
+	"Dimril Dale" = { 242 223 12 }
+	"Old Ford" = { 204 188 10 }
+	"Carrack" = { 115 140 63 }
+	"Rhunanduin" = { 153 141 8 }
+	"Dunanduin" = { 217 200 11 }
+	"Foranduin" = { 179 164 9 }
+	"Gundabad" = { 191 176 10 }
+	"Angmar" = { 115 96 0 }
+	"Nan Angmar" = { 177 217 98 }
+	"Angsul" = { 81 140 0 }
+	"En Udanoriath" = { 153 128 0 }
+	"Fen Ethuil" = { 176 204 122 }
+	"Huad Lin" = { 217 181 0 }
+	"Dor Guldur" = { 140 129 7 }
+	"South Mirkwood" = { 136 204 0 }
+	"Mirkwood" = { 128 119 20 }
+	"Mountains of Mirkwood" = { 166 153 8 }
+	"North Mirkwood" = { 242 242 97 }
+	"Lake Town" = { 115 107 18 }
+	"The Lonely Mountain" = { 102 95 16 }
+	"Grey Mountains" = { 198 242 109 }
+	"Withered Heath" = { 128 255 0 }
+	"Iron Hills" = { 82 102 41 }
+	"Brown Lands" = { 191 179 38 }
+	"South Brown Lands" = { 111 166 0 }
+	"Westfold" = { 166 152 0 }
+	"Eastfold" = { 204 187 0 }
+	"West Emnet" = { 153 140 0 }
+	"East Emnet" = { 128 128 51 }
+	"Entwash Delta" = { 242 222 0 }
+	"Falls of Rauros" = { 191 175 0 }
+	"Nindalf" = { 227 208 0 }
+	"Dagorlad" = { 217 199 0 }
+	"Emyn Muil" = { 83 102 45 }
+	"Udun" = { 87 140 14 }
+	"Mount Doom" = { 131 217 11 }
+	"Barad-dur" = { 115 191 10 }
+	"Plains of Gorgoroth" = { 123 204 10 }
+	"Nurn" = { 61 102 5 }
+	"North Ithilien" = { 115 108 75 }
+	"Minas Tirith" = { 166 156 108 }
+	"Osgiliath" = { 153 144 99 }
+	"Minas Morgul" = { 128 120 83 }
+	"South Ithilien" = { 242 229 73 }
+	"Emyn Arnen" = { 102 96 66 }
+	"Lossarnach" = { 204 192 133 }
+	"Pelargir" = { 230 216 149 }
+	"Lebennin" = { 217 204 141 }
+	"Dor-en-Ernil" = { 255 240 166 }
+	"Belfalas" = { 115 107 69 }
+	"Tolfalas" = { 53 128 0 }
+	"North Belfalas" = { 102 95 61 }
+	"Dol Amros" = { 140 131 84 }
+	"Lamedon" = { 153 143 92 }
+	"Erech" = { 79 191 0 }
+	"Edhellond" = { 179 166 107 }
+	"Anfalas" = { 217 202 130 }
+	"Nimrais" = { 191 178 115 }
+	"Pinnath Gelm" = { 204 190 122 }
+	"Hairaverkien" = { 99 115 69 }
+	"Lefnui" = { 191 182 86 }
+	"Nan Lefnui" = { 230 214 138 }
+	"Annulond" = { 69 166 0 }
+	"Andrast" = { 196 204 122 }
+	"Path Iaur" = { 242 226 145 }
+	"Druwaith Iaur" = { 102 94 56 }
+	"Adorn" = { 128 118 70 }
+	"Pukeland" = { 132 153 92 }
+	"Rhunpukeland" = { 255 238 153 }
+	"Harondor" = { 230 217 69 }
+	"Ethir Harnen" = { 217 205 65 }
+	"Haruzan" = { 204 192 71 }
+	"Pezarsan" = { 191 180 67 }
+	"Kajbah" = { 179 168 62 }
+	"Ginfalas" = { 153 145 46 }
+	"Umbar" = { 140 133 42 }
+	"Nurumurl" = { 84 140 7 }
+	"Caradhram Nur" = { 69 115 5 }
+	"Nurnen-dur" = { 106 255 0 }
+	"Gap of Khand" = { 103 166 17 }
+	"Upper Khand" = { 179 168 45 }
+	"Lithlad" = { 143 230 23 }
+	"Rhulithlad" = { 127 204 20 }
+	"Ethir Anduin" = { 242 228 157 }
+	"Gap of Rohan" = { 74 179 0 }
+	"Lake Evendim" = { 0 128 255 }
+	"Harlond" = { 204 176 34 }
+	"Rhun" = { 242 228 61 }
+	"Harnen" ={ 166 157 50 }
+}
+
+level_1_center_of_trade = { 101 242 0 } #Forochel
+level_1_center_of_trade = {  191 160 0 } #Harbor thing on North of Eriador
+level_1_center_of_trade = { 230 192 0 } #Grey Havens
+level_1_center_of_trade = { 140 133 42 } #Umbar
+level_1_center_of_trade = { 242 231 109 } #Gulf south of umbar
+level_1_center_of_trade = { 166 159 83 }
+level_1_center_of_trade = { 217 209 130 } #SouthWest tip
+level_1_center_of_trade = { 230 230 34 }
+level_1_center_of_trade = { 153 153 77 }
+level_1_center_of_trade = { 217 217 76 }
+level_1_center_of_trade = { 119 128 32 }
+level_1_center_of_trade = { 171 179 98 }
+level_1_center_of_trade = { 26 230 0 }
+level_1_center_of_trade = { 102 128 25 }
+level_1_center_of_trade = { 156 204 10 }
+level_1_center_of_trade = { 121 166 33 }
+level_1_center_of_trade = { 96 230 0 }
+
+river_estuary_modifier = { 102 91 32 }
+river_estuary_modifier = { 242 228 157 } #Anduin
+river_estuary_modifier = { 166 166 0 }
+river_estuary_modifier = { 115 115 17 }
+river_estuary_modifier = { 217 217 54 }
+river_estuary_modifier = { 234 255 0 }
+river_estuary_modifier = { 234 181 0 }
+river_estuary_modifier = { 178 242 48 }
+river_estuary_modifier = { 147 179 54 }
+river_estuary_modifier = { 147 179 54 }
+river_estuary_modifier = { 203 230 69 }
+river_estuary_modifier = { 166 157 50 } #Harnen
+river_estuary_modifier = { 117 153 46 }
+
+level_1_center_of_trade = { 217 185 24 } #Bree
+level_1_center_of_trade = { 74 179 0 } #Gap of Rohan
+level_1_center_of_trade = { 87 140 14 } #Udun
+level_1_center_of_trade = { 212 230 22 } 
+level_1_center_of_trade = { 115 107 18 } #Laketown
+level_1_center_of_trade = { 242 228 61 } #Rhun
+level_1_center_of_trade = { 175 204 31 }
+level_1_center_of_trade = { 153 166 91 }
+level_1_center_of_trade = { 132 140 56 }
+
+#strait = {
+#from = {  }
+#to = {  }
+#through = {  }
+#}
+
+strait = {
+	from = { 128 128 0 }
+	to = { 115 115 0 }
+	through = { 64 255 255 }
+}
+
+strait = {
+	from = { 242 242 12 }
+	to = { 102 102 0 }
+	through = { 64 255 255 }
+}
+strait = {
+	from = { 255 255 25 }
+	to = { 191 191 19 }
+	through = { 57 230 230 }
+}
+strait = {
+	from = { 204 204 31 }
+	to = { 217 217 33 }
+	through = { 23 115 115 }
+}
+strait = {
+	from = { 191 191 29 }
+	to = { 179 179 27 }
+	through = { 20 102 102 }
+}
+strait = {
+	from = { 191 191 29 }
+	to = { 242 242 48 }
+	through = { 20 102 102 }
+}
+strait = {
+	from = { 179 179 27 }
+	to = { 242 242 48 }
+	through = { 20 102 102 }
+}
+strait = {
+	from = { 191 191 19 }
+	to = { 115 115 12 }
+	through = { 57 230 230 }
+}
+strait = {
+	from = { 179 179 45 }
+	to = { 140 140 35 }
+	through = { 33 166 166 }
+}
+strait = {
+	from = { 128 128 32 }
+	to = { 140 140 35 }
+	through = { 33 166 166 }
+}
+strait = {
+	from = { 179 179 45 }
+	to = { 140 140 35 }
+	through = { 33 166 166 }
+}
+strait = {
+	from = { 115 115 29 }
+	to = { 140 140 35 }
+	through = { 33 166 166 }
+}
+strait = {
+	from = { 179 179 45 }
+	to = { 140 140 35 }
+	through = { 33 166 166 }
+}
+strait = {
+	from = { 255 255 77 }
+	to = { 140 140 35 }
+	through = { 33 166 166 }
+}
+strait = {
+	from = { 242 242 73 }
+	to = { 230 230 69 }
+	through = { 41 204 204 }
+}
+strait = {
+	from = { 204 204 61 }
+	to = { 179 179 54 }
+	through = { 41 204 204 }
+}
+strait = {
+	from = { 166 166 50 }
+	to = { 115 115 34 }
+	through = { 41 204 204 }
+}
+strait = {
+	from = { 115 115 46 }
+	to = { 102 102 41 }
+	through = { 25 166 166 }
+}
+strait = {
+	from = { 115 115 34 }
+	to = { 102 102 31 }
+	through = { 25 166 166 }
+}
+strait = {
+	from = { 230 230 80 }
+	to = { 191 191 86 }
+	through = { 23 153 153 }
+}
+strait = {
+	from = { 242 242 109 }
+	to = { 191 191 86 }
+	through = { 23 153 153 }
+}
+strait = {
+	from = { 217 217 98 }
+	to = { 179 179 80 }
+	through = { 23 153 153 }
+}
+strait = {
+	from = { 166 166 75 }
+	to = { 179 179 80 }
+	through = { 19 128 128 }
+}
+strait = {
+	from = { 115 115 34 }
+	to = { 166 166 50 }
+	through = { 43 217 217 }
+}
+strait = {
+	from = { 204 204 71 }
+	to = { 255 255 89 }
+	through = { 43 217 217 }
+}
+strait = {
+	from = { 217 217 76 }
+	to = { 140 140 49 }
+	through = { 21 140 140 }
+}
+strait = {
+	from = { 191 191 67 }
+	to = { 166 166 58 }
+	through = { 21 140 140 }
+}
+strait = {
+	from = { 153 153 54 }
+	to = { 166 166 58 }
+	through = { 21 140 140 }
+}
+strait = {
+	from = { 140 140 49 }
+	to = { 166 166 58 }
+	through = { 21 140 140 }
+}
+strait = {
+	from = { 140 140 49 }
+	to = { 153 153 54 }
+	through = { 21 140 140 }
+}
+strait = {
+	from = { 140 140 49 }
+	to = { 115 115 40 }
+	through = { 21 140 140 }
+}
+strait = {
+	from = { 153 153 54 }
+	to = { 115 115 40 }
+	through = { 21 140 140 }
+}
+strait = {
+	from = { 128 128 45 }
+	to = { 115 115 40 }
+	through = { 21 140 140 }
+}
+strait = {
+	from = { 255 255 102 }
+	to = { 115 115 40 }
+	through = { 21 140 140 }
+}
+strait = {
+	from = { 255 255 102 }
+	to = { 217 217 87 }
+	through = { 21 140 140 }
+}
+strait = {
+	from = { 230 230 92 }
+	to = { 217 217 87 }
+	through = { 21 140 140 }
+}
+strait = {
+	from = { 128 128 45 }
+	to = { 204 204 82 }
+	through = { 21 140 140 }
+}
+strait = {
+	from = { 166 166 66 }
+	to = { 204 204 82 }
+	through = { 21 140 140 }
+}
+strait = {
+	from = { 191 191 77 }
+	to = { 166 166 66 }
+	through = { 21 140 140 }
+}
+strait = {
+	from = { 153 153 61 }
+	to = { 166 166 66 }
+	through = { 21 140 140 }
+}
+strait = {
+	from = { 128 128 57 }
+	to = { 115 115 52 }
+	through = { 17 115 115 }
+}
+strait = {
+	from = { 115 115 52 }
+	to = { 102 102 46 }
+	through = { 17 115 115 }
+}
+strait = {
+	from = { 115 115 52 }
+	to = { 255 255 128 }
+	through = { 17 115 115 }
+}
+strait = {
+	from = { 242 242 121 }
+	to = { 255 255 128 }
+	through = { 17 115 115 }
+}
+strait = {
+	from = { 236 255 51 }
+	to = { 119 128 32 }
+	through = { 8 153 153 }
+}
+strait = {
+	from = { 107 115 29 }
+	to = { 119 128 32 }
+	through = { 8 153 153 }
+}
+strait = {
+	from = { 107 115 29 }
+	to = { 226 242 73 }
+	through = { 7 140 140 }
+}
+strait = {
+	from = { 98 102 61 }
+	to = { 212 255 0 }
+	through = { 12 242 242 }
+}
+strait = {
+	from = { 146 153 77 }
+	to = { 171 179 98 }
+	through = { 0 115 115 }
+}
+strait = {
+	from = { 129 166 58 }
+	to = { 119 153 54 }
+	through = { 0 98 148 }
+}
+strait = {
+	from = { 90 115 40 }
+	to = { 139 179 62 }
+	through = { 0 191 191 }
+}
+strait = {
+	from = { 119 179 0 }
+	to = { 96 230 0 }
+	through = { 0 191 191 }
+}
+strait = {
+	from = { 87 128 6 }
+	to = { 90 217 0 }
+	through = { 0 204 204 }
+}
+strait = {
+	from = { 96 140 7 }
+	to = { 102 153 0 }
+	through = {0 217 217 }
+}
+strait = {
+	from = { 113 166 8 }
+	to = { 94 140 0 }
+	through = { 0 242 242 }
+}
+strait = {
+	from = { 113 166 8 }
+	to = { 68 102 0 }
+	through = { 0 242 242 }
+}
+
+strait = {
+	from = { 205 242 97 }
+	to = { 194 230 92 }
+	through = { 12 166 242 }
+}
+strait = {
+	from = { 151 179 71 }
+	to = { 140 166 66 }
+	through = { 12 166 242 }
+}
+strait = {
+	from = { 129 153 61 }
+	to = { 140 166 66 }
+	through = { 12 166 242 }
+}
+
+strait = {
+	from = { 154 179 80 }
+	to = { 187 217 98 }
+	through = { 10 131 191 }
+}
+strait = {
+	from = { 97 115 46 }
+	to = { 187 217 98 }
+	through = { 10 131 191 }
+}
+strait = {
+	from = { 220 255 115 }
+	to = { 143 166 75 }
+	through = { 9 122 179 }
+}
+strait = {
+	from = { 88 102 46 }
+	to = { 121 140 63 }
+	through = { 9 122 179 }
+}
+strait = {
+	from = { 123 140 70 }
+	to = { 89 102 51 }
+	through = { 10 139 204 }
+}
+
+strait = {
+	from = { 162 242 0 }
+	to = { 128 191 0 }
+	through = { 21 143 204 }
+}
+strait = {
+	from = { 126 140 84 }
+	to = { 153 230 0 }
+	through = { 21 143 204 }
+}
+strait = {
+	from = { 145 217 0 }
+	to = { 153 230 0 }
+	through = { 21 143 204 }
+}
+strait = {
+	from = { 145 217 0 }
+	to = { 128 191 0 }
+	through = { 21 143 204 }
+}
+strait = {
+	from = { 119 179 0 }
+	to = { 128 191 0 }
+	through = { 21 143 204 }
+}
+
+
+empty = { 0 0 0 }
+wasteland_province = { 255 255 255 }
+size = { 18 16 }
+weight = 100
+do_not_rotate_or_mirror = yes
+
+add_moisture = 1000
+
+num_sea_provinces = 125
+num_land_provinces = 844
+
+continent = yes
